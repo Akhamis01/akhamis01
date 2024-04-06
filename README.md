@@ -6,7 +6,7 @@ As a recent graduate armed with a B.Eng degree in Computer Engineering from Toro
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aser-khamis/) 
-[![Static Badge](https://img.shields.io/badge/Website-purple?style=flat&logo=githubpages&link=https%3A%2F%2Fsamuelhabib.github.io%2F)](https://akhamis01.github.io/)
+[![Static Badge](https://img.shields.io/badge/Website-purple?style=flat&logo=githubpages&link=https%3A%2F%2Fsamuelhabib.github.io%2F)](https://akhamis01.github.io/website/)
 
 
 ## 💻 Tech Stack
