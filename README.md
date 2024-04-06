@@ -1,15 +1,15 @@
 # 💫 Welcome!
 I'm Aser Khamis, a passionate Software Engineer.
 
-## 🚀 About Me:
+## 🚀 About Me
 As a recent graduate armed with a B.Eng degree in Computer Engineering from Toronto Metropolitan University, I am deeply immersed in the dynamic world of technology. My journey thus far has been marked by invaluable experiences gained through hands-on roles at industry giants like **Amazon** and **Tucows**. Fueled by a passion for innovation, I thrive on tackling real-world challenges head-on and leveraging my skills to engineer software solutions that drive meaningful change.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aser-khamis/) 
 [![Static Badge](https://img.shields.io/badge/Website-purple?style=flat&logo=githubpages&link=https%3A%2F%2Fsamuelhabib.github.io%2F)](https://akhamis01.github.io/)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
