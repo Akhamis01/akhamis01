@@ -1,5 +1,5 @@
 # 💫 Welcome!
-I'm Aser Khamis, a passionate Software Engineer.
+I'm Aser, a passionate Software Engineer.
 
 ## 🚀 About Me
 As a recent graduate armed with a B.Eng degree in Computer Engineering from Toronto Metropolitan University, I am deeply immersed in the dynamic world of technology. My journey thus far has been marked by invaluable experiences gained through hands-on roles at industry giants like **Amazon** and **Tucows**. Fueled by a passion for innovation, I thrive on tackling real-world challenges head-on and leveraging my skills to engineer software solutions that drive meaningful change.
